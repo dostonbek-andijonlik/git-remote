@@ -1,5 +1,5 @@
 *.db
 *.log
 
-/bin
+/bin 
 /target
