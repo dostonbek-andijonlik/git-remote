@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 *.log
+=======
+*.db
+*.log
+
+/bin 
+/target
+>>>>>>> feature
